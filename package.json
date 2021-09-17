@@ -1,0 +1,16 @@
+{
+  "name": "doctorrest",
+  "version": "1.0.0",
+  "description": "A RESTful API that will return data on requested Stephen King books",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Branden Wheeler",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.5"
+  }
+}
